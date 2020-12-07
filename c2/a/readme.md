@@ -8,13 +8,13 @@
 
 
 
-![截屏2020-12-07 下午11.33.42](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.33.42.png)
+![截屏2020-12-07 下午11.33.42](image/截屏2020-12-07 下午11.33.42.png)
 
-![截屏2020-12-07 下午11.34.26](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.34.26.png)
+![截屏2020-12-07 下午11.34.26](image/截屏2020-12-07 下午11.34.26.png)
 
 然后回车，disk就创建出来了
 
-![截屏2020-12-07 下午11.34.59](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.34.59.png)
+![截屏2020-12-07 下午11.34.59](image/截屏2020-12-07 下午11.34.59.png)
 
 
 
@@ -26,16 +26,16 @@
 
 3、执行bochs -f bochsrc, 结果如下
 
-![截屏2020-12-07 下午11.36.32](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.36.32.png)
+![截屏2020-12-07 下午11.36.32](image/截屏2020-12-07 下午11.36.32.png)
 
 回车，如下
 
-![截屏2020-12-07 下午11.36.54](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.36.54.png)
+![截屏2020-12-07 下午11.36.54](image/截屏2020-12-07 下午11.36.54.png)
 
 
 
 结果如下
 
-![截屏2020-12-07 下午11.37.09](/Users/huangchuang/Library/Application Support/typora-user-images/截屏2020-12-07 下午11.37.09.png)
+![截屏2020-12-07 下午11.37.09](image/截屏2020-12-07 下午11.37.09.png)
 
 本章结束
